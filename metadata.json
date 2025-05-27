@@ -1,0 +1,5 @@
+
+{
+  "name": "Email Formalizer AI",
+  "description": "A React application that uses the Gemini API to convert informal messages into professional, official-sounding emails."
+}
